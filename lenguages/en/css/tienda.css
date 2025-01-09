@@ -1,0 +1,49 @@
+body{
+	background-color: saddlebrown;
+	background-repeat: repeat;
+	background-attachment: fixed;
+	background-size: 50%;
+}
+.img0{
+	height: 82px;
+	border: solid 2px;
+	border-color: black;
+	border-radius: 10px;
+	margin-left: 7px;
+	margin-top: -10px;
+}
+
+.a1 {
+	display: inline-flex;
+	margin-top: 1%;
+	border: 2px solid;
+	border-color: black;
+	border-radius: 10px;
+	background-color: seagreen;
+	:visited; color: black;
+	font-size: 250%;
+	font-style: italic;
+	font-family: cursive;
+	text-decoration: none;
+	padding: 1%;
+
+	}
+
+
+.imagenesproductos{
+
+	background-color: white;
+	width: 200px;
+	height: 200px;
+	margin-top: 50px;
+	margin-left: 60px;
+	border: 2px solid green;
+	border-radius: 15px;f
+
+}
+
+.imagenesproductos:hover
+{
+	transform: scale(1.2);
+	opacity: 0.9;
+}

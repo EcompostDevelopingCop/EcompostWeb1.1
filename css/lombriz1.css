@@ -1,0 +1,123 @@
+body{
+	background-color: #fff1a4;
+	background-repeat: repeat;
+	background-attachment: fixed;
+	background-size: 50%;
+}
+
+.img0{
+	width: 15%;
+	border: solid 2px;
+	border-color: black;
+	margin-top: -10px;
+	border-radius: 10px;
+}
+
+.a1 {
+	display: inline-flex;
+	margin-top: 1%;
+	border: 2px solid;
+	border-color: black;
+	border-radius: 10px;
+	background-color: seagreen;
+	:visited; color: black;
+	font-size: 250%;
+	font-style: italic;
+	font-family: cursive;
+	text-decoration: none;
+	padding: 1%;
+
+	}
+.caja1 {
+	background-color:sandybrown;
+	margin: 5% 10% 10% 10%;
+	padding: 10px;
+	border: 2px solid;
+	border-color: black;
+	border-radius: 100px;
+}
+
+.loimg {
+	width: 90%;
+	border: 5px solid seagreen;
+	border-radius: 30px;
+	outline: 2px solid black;
+	margin-bottom: 40px;
+}
+.parrafo1 {
+	font-size: 18px;
+	font-style: italic;
+	padding-left: 50px;
+	padding-right: 50px;
+	padding-bottom: 50px;
+
+}
+
+.tabla1{
+	font-size: 18px;
+	font-style: italic;
+	outline: 2px solid black;
+	border: 3px solid;
+	border-color: seagreen;
+	border-radius: 10px;
+	background-color: saddlebrown;
+	padding: ;
+
+}
+.textotabla1{
+	margin-left: 10%;
+	margin-right: 10%;
+	font-size: 35px;
+	color: green;
+	-webkit-text-stroke:2px black;
+	margin-top: 60px;
+}
+.himg{
+	height: 200px;
+	border: 2px solid saddlebrown;
+	border-radius: 10px;
+	outline: 1px solid black;
+	
+}
+
+td{
+	border: 0px;
+}
+
+table{
+	background-color: seagreen;
+	outline: 2px solid black;
+	border: 3px solid seagreen;
+	border-radius: 10px;
+	margin-bottom: 20px;
+}
+
+.textotabla2{
+	color: green;
+	-webkit-text-stroke:1px black;
+	text-decoration: none;
+	font-size: 28px;
+}
+
+.textop{
+	margin-left: 10%;
+	margin-right: 10%;
+	font-size: 26px;
+	-webkit-text-stroke: 2px;
+}
+
+.a2 {
+	margin-bottom: 10%;
+	margin-left: 5%;
+	margin-right: 5%;
+	border: 3px solid saddlebrown;
+	border-radius: 5px;
+	outline: 2px solid black;
+	font-size: 30px;
+	background-color: green;
+	text-decoration: none;
+	color: green;
+	-webkit-text-stroke: 2px black;
+	padding: 5px;
+
+}
