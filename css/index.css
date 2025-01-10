@@ -4,24 +4,8 @@ body{
 	background-attachment: fixed;
 	background-size: 50%;
 }
-.MenuNavegacion{
-	width: 100%;
-}
 
-.boton1 {
-
-	margin: auto;
-	padding: 20px;
-	font-size: 30px;
-	font-style: italic;
-	background-color: seagreen;
-	border-color: black;
-	border-radius: 10px;
-	border: 2px solid;
-	text-decoration: none;
-}
-
-.img0{
+.imagenEcompostMini {
 	display: inline-block;
 	width: 15%;
 	border: solid 2px;
@@ -31,7 +15,11 @@ body{
 	margin-top: -10px;
 }
 
-.a1 {
+.MenuDeNavegacion{
+	width: 100%;
+}
+
+.textoMenuDeNavegacion {
 	width: auto;
 	height: auto;
 	display: inline-flex;
@@ -50,7 +38,7 @@ body{
 	}
 
 
-.title {
+.tituloPrincipal {
 	display: block;
 	margin-top: 5%;
 	color: green;
@@ -61,7 +49,7 @@ body{
     
 }
 
-.img1 {
+.logoEcompostContenido {
 	height: 100%;
 	border: 10px solid;
 	border-color: green #DEB887;
@@ -71,7 +59,7 @@ body{
 }
 
 
-.caja0 {
+.contenedorPrincipal {
 	display: inine-flex;
 	padding-left: 5%;
 	padding-right: 5%;
@@ -83,7 +71,7 @@ body{
 	
 }
 
-.desc {
+.descripcion {
 	
 	margin-top: 50px;
 	text-align: justify;
@@ -93,12 +81,12 @@ body{
 	
 }
 
-.titles {
+.tituloSecundario {
 	color: #804000;
 	-webkit-text-stroke: 2px black;
 }
 
-#stand {
+#standFeriaItagui {
 	display: block;
 	width: 100%;
 	border: 3px solid #804000;
