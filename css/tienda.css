@@ -4,7 +4,8 @@ body{
 	background-attachment: fixed;
 	background-size: 33%;
 }
-.img0{
+
+.imagenEcompostMini {
 	width: 15%;
 	border: solid 2px;
 	border-color: black;
@@ -13,24 +14,22 @@ body{
 	margin-top: -10px;
 }
 
-.a1 {
+.textoMenuDeNavegacion {
 	display: inline-flex;
 	margin-top: 1%;
 	border: 2px solid;
 	border-color: black;
 	border-radius: 10px;
 	background-color: seagreen;
-	:visited; color: black;
 	font-size: 250%;
 	font-style: italic;
 	font-family: cursive;
 	text-decoration: none;
 	padding: 1%;
+}
 
-	}
 
-
-.imagenesproductos{
+.portadasProductos{
 
 	background-color: white;
 	width: 200px;
@@ -42,8 +41,15 @@ body{
 
 }
 
-.imagenesproductos:hover
-{
+.portadasProductos:hover {
 	transform: scale(1.2);
 	opacity: 0.9;
+}
+
+a {
+	color: black;
+}
+
+a:visited {
+	color: black;
 }
