@@ -57,7 +57,7 @@ body {
 
 
 .contenedorPrincipal {
-	display: inine-flex;
+	display: block;
 	padding-left: 5%;
 	padding-right: 5%;
 	padding-bottom: 40px;
@@ -88,6 +88,10 @@ body {
 	width: 100%;
 	border: 3px solid #804000;
 	border-radius: 100px;
+}
+
+a {
+	color: black;
 }
 
 a:visited {
