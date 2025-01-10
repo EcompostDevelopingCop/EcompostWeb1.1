@@ -1,4 +1,4 @@
-body{
+body {
 	background-repeat: repeat;
 	background-attachment: fixed;
 	background-size: 50%;
@@ -14,7 +14,7 @@ body{
 	margin-top: -10px;
 }
 
-.MenuDeNavegacion{
+.MenuDeNavegacion {
 	width: 100%;
 }
 
