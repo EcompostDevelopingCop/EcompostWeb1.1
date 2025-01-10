@@ -28,7 +28,6 @@ body{
 	border-color: black;
 	border-radius: 10px;
 	background-color: seagreen;
-	:visited; color: black;
 	font-size: 250%;
 	font-style: italic;
 	font-family: cursive;
@@ -36,7 +35,6 @@ body{
 	padding: 1%;
 
 	}
-
 
 .tituloPrincipal {
 	display: block;
@@ -91,4 +89,8 @@ body{
 	width: 100%;
 	border: 3px solid #804000;
 	border-radius: 100px;
+}
+
+a:visited {
+	color: black;
 }
